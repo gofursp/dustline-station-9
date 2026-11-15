@@ -1,0 +1,1 @@
+{"description":"DUSTLINE: Station 9 — a round-based tactical FPS on three.js, no build step, no network.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"dustline-station-9","type":"module","version":"1.0.0"}
